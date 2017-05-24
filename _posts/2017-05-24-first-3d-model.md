@@ -1,6 +1,3 @@
----
-published: false
----
 ## example 3D model
 
 
