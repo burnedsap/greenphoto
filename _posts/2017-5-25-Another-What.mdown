@@ -1,6 +1,7 @@
 ---
 layout: post
 title: What is photogrammetry?
+published: true
 ---
 
  photogrammetry |ˌfəʊtə(ʊ)ˈgramɪtri|
