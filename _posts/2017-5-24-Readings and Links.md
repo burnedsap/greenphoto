@@ -3,7 +3,7 @@ layout: post
 title: Readings
 ---
 
-While doing some research on photogrammtery, I come across some good reading material which.
+While doing some research on photogrammtery, I come across some good reading material which I've listed down here for you.
 
 [Guide to Photoscan](http://bertrand-benoit.com/blog/the-poor-mans-guide-to-photogrammetry/ "Guide to Photoscan")
 
