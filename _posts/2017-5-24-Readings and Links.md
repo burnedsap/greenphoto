@@ -15,3 +15,5 @@ While doing some research on photogrammtery, I come across some good reading mat
 
 
 [Star Wars Photogrammetry](http://starwars.ea.com/starwars/battlefront/news/how-we-used-photogrammetry "Star Wars Photogrammetry")
+
+[How to align your modesl](https://2torialblog.wordpress.com/2016/04/16/align-photoscan/ "Align Models")
